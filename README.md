@@ -20,3 +20,6 @@ samples, guidance on mobile development, and a full API reference.
 # pert9
 praktikum jumat 27 november 2026
 >>>>>>> 603303377bed28c275bcc4f3dc751318489e04d1
+
+
+link vercel : prakt9pemob.vercel.app
