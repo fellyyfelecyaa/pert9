@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # prak_pert9pemob
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# pert9
+praktikum jumat 27 november 2026
+>>>>>>> 603303377bed28c275bcc4f3dc751318489e04d1
